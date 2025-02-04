@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: prod
+
+build:
+  version: 1.0
+
+accounts:
+  message: "Prod Accounts Service"
+  contactDetails:
+    name: "Prod sagggar singh"
+    email: "saggarsingh@gmail.com"
+    phone: "123456789"

@@ -1,0 +1,9 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Accounts Service"
+  contactDetails:
+    name: "sagggar singh"
+    email: "saggarsingh@gmail.com"
+    phone: "123456789"

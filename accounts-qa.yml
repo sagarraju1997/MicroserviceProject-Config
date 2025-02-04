@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: qa
+
+build:
+  version: 2.0
+
+accounts:
+  message: "QA Accounts Service"
+  contactDetails:
+    name: "QA sagggar singh"
+    email: "saggarsingh@gmail.com"
+    phone: "123456789"

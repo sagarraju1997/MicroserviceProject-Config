@@ -7,7 +7,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Prod Accounts Service"
+  message: "Production Accounts Service"
   contactDetails:
     name: "Prod sagggar singh"
     email: "{cipher}f7c0ffd3a090261de916ec1279c8aa0e1b4e661a91af66d5963bc05d9e93ae332b855ac071b3b44da63f7b9ea8995ae4"
